@@ -14,4 +14,4 @@ function pinger () {
 };
 
 pinger();
-setInterval(pinger, 10000);
+setInterval(pinger, 60000);
